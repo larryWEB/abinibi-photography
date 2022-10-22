@@ -167,11 +167,10 @@ position:absolute;
 .homepage{
  margin-top:80px;
     background-image: url('/assets/images/home\ 2.webp') !important;
-  background-blend-mode: overlay;
+
   background-size: cover;
     background-repeat: no-repeat;
- background-color:rgba(6, 6, 6, 0.162);
-color:white;
+
  height:350px;
 padding:70px;
  
@@ -288,11 +287,10 @@ text-align:center;
 
 .about{
        background-image: url('/assets/images/home\ 2.webp') !important;
-     background-blend-mode: overlay;
+   
      background-size: cover;
        background-repeat: no-repeat;
-    background-color:rgba(6, 6, 6, 0.162);
-   color:white;
+   
    padding:70px;
     object-fit:center;
    }
