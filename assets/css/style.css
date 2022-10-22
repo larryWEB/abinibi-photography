@@ -170,7 +170,7 @@ position:absolute;
 
   background-size: cover;
     background-repeat: no-repeat;
-
+color:white;
  height:350px;
 padding:70px;
  
@@ -290,7 +290,7 @@ text-align:center;
    
      background-size: cover;
        background-repeat: no-repeat;
-   
+   color:white;
    padding:70px;
     object-fit:center;
    }
